@@ -1,25 +1,24 @@
+</p>
 <h1 align="center">Salut, c'est Apsharan 👋</h1>
 
 <p align="center">
-  🤖 Robotique • ⚙️ Systèmes embarqués • 🔌 Électronique • 🚗 Automobile
+🤖 Robotique • ⚙️ Systèmes embarqués • 🔌 Électronique • 🚗 Automobile
 </p>
 
 🎓 Diplômé du BTS CIEL (2025)
 
-🔧 Je conçois et développe des projets mêlant programmation, électronique, objets connectés et automatisation.
+🔧 Passionné par la conception de projets mêlant programmation, électronique, objets connectés et automatisation.
 
-🚀 Objectif : devenir ingénieur en robotique, systèmes embarqués et technologies intelligentes.
-
-🌍 Français • English • Tamil
+🚀 Objectif : devenir ingénieur capable de concevoir des solutions innovantes alliant logiciel, matériel et technologies intelligentes.
 
 <br/>
 
-* 💡 Passionné par les nouvelles technologies et l'innovation.
-* 🛠️ J'aime concevoir, expérimenter et améliorer des systèmes techniques.
+* 💡 Curieux, créatif et toujours motivé à apprendre et expérimenter.
+* 🛠️ J'aime concevoir, prototyper et améliorer des systèmes techniques.
 * 🎯 Centres d'intérêt : `🚗 Automobile` `🤖 Robotique` `🌱 Jardinage` `🎵 Musique` `💻 Technologie`
-* 🧠 Personnalité : `INFJ`
-* 🗣️ Langues : `🇫🇷 Français` `🇬🇧 Anglais` `🇱🇰 Tamoul`
+* 🧠 Personnalité : `INTJ-A`
+* 🗣️ Langues : `🥐 Français` `💂‍♂️ Anglais` `🐯 Tamoul`
 
 <br/>
 
-🖥️ LinkedIn : [Apsharan Arudselvam](https://www.linkedin.com/in/abinyan-arudselvam)
+🖥️ LinkedIn : [Apsharan](https://www.linkedin.com/in/Apsharan)
