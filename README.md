@@ -1,16 +1,21 @@
-## Hi there 👋
+Salut, c'est Apsharan 👋
 
-<!--
-**Apsharan/Apsharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotique Systèmes embarqués Électronique C++ Python IoT
 
-Here are some ideas to get you started:
+🎓 Diplômé BTS CIEL (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Je développe des projets mêlant programmation, électronique et objets connectés.
+
+🚀 Objectif : devenir ingénieur en robotique et systèmes embarqués.
+
+🌍 Français • English • Tamil
+
+💼 LinkedIn : linkedin.com/in/Arudselvam
+
+<h1 align="center">Salut, c'est Apsharan 👋</h1>
+
+<p align="center">
+  Robotique • Systèmes embarqués • Électronique
+</p>
+
+<img width="918" height="894" alt="image" src="https://github.com/user-attachments/assets/dcef63a3-57d0-466c-a248-b41359fdfe79" />
