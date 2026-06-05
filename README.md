@@ -1,6 +1,8 @@
-Salut, c'est Apsharan 👋
+<h1 align="center">Salut, c'est Apsharan 👋</h1>
 
-Robotique Systèmes embarqués Électronique C++ Python IoT
+<p align="center">
+  Robotique • Systèmes embarqués • Électronique
+</p>
 
 🎓 Diplômé BTS CIEL (2025)
 
@@ -12,8 +14,3 @@ Robotique Systèmes embarqués Électronique C++ Python IoT
 
 💼 LinkedIn : linkedin.com/in/Arudselvam
 
-<h1 align="center">Salut, c'est Apsharan 👋</h1>
-
-<p align="center">
-  Robotique • Systèmes embarqués • Électronique
-</p>
