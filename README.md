@@ -12,5 +12,4 @@
 
 🌍 Français • English • Tamil
 
-💼 LinkedIn : linkedin.com/in/Arudselvam
-
+🖥️ Profil LinkedIn : [abinayan-arudselvam](https://www.linkedin.com/in/Apsharan/) 
