@@ -1,10 +1,6 @@
 </p>
 <h1 align="center">Salut, c'est Apsharan 👋</h1>
 
-<p align="center">
-🤖 Robotique • ⚙️ Systèmes embarqués • 🔌 Électronique • 🚗 Automobile
-</p>
-
 🎓 Diplômé du BTS CIEL (2025)
 
 🔧 Passionné par la conception de projets mêlant programmation, électronique, objets connectés et automatisation.
